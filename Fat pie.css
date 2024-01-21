@@ -1,0 +1,27 @@
+ body{
+    background: rgb(232, 232, 232);
+    font-family: sans-serif;
+    margin: 0;
+    padding: 10px;
+} 
+
+h2{
+    font-family: sans-serif;
+    font-size: 4em;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+    margin: 0 auto;
+    padding: 100px;
+    float:bottom;
+}
+
+.pic1{
+    float:bottom left;
+    margin-right: 8px;
+    border: 8px splid black;
+}
+
+.container{
+    float: top;
+}
